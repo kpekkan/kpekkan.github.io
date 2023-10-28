@@ -1,2 +1,2 @@
 # kpekkan.github.io
-personal website
+Notes on Cardiovascular Circulation Theory 
